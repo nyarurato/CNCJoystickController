@@ -12,6 +12,13 @@ from: https://twitter.com/Gymnopedian/status/1694639996589015279
 
 
 # Licence
+## Hardware
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## Software
+GPLv3
+
+software forked by https://github.com/Duet3D/CNC-Pendant-Firmware
+
 # Author
 [nyaruarto](https://github.com/nyarurato)
